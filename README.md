@@ -5,7 +5,6 @@ Computer Engineering student
 ----------------------------
 
 * 🌍  I'm based in London
-* ✉️  You can contact me at [mo.abdirahman99@gmail.com](mailto:mo.abdirahman99@gmail.com)
 * 🧠  I'm learning Python
 
 ### Skills
