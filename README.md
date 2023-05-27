@@ -11,13 +11,7 @@ Computer Engineering student
 
 
 ### Skills
-
-<p align="left">
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-</p>
-
-
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdiok&layout=compact&theme=radical)
 
 ### Socials
 
