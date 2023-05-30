@@ -1,6 +1,6 @@
 ![Header](./header.png)
 
-<h2 align="center">9xN</h2>
+<h2 align="center">ItsAbdiOk</h2>
 
 <div align="center">
   <a href="https://github.com/itsabdiok">
