@@ -1,19 +1,27 @@
-Hi 👋 My name is Abdirahman Mohamed
-===================================
+![Header](./header.png)
 
-Computer Engineering student
-----------------------------
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/bGgsc5mWoryfgKBx1u/200w.gif?cid=6c09b952y6cxyemshuphg63ed39jh5blhrdcitxkapks3jkr&rid=200w.gif&ct=g">
+<h2 align="center">9xN</h2>
 
-* 🌍  I'm based in London
+<div align="center">
+  <a href="https://github.com/itsabdiok">
+  <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=itsabdiok&label=stalker+count" alt="Profile Views Count">
+  </p>
+</a>
 
-* 🧠  I'm learning Python
+<table>
+  <tr>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/?username=itsabdiok&title_color=4F8CC9&text_color=9f9f9f&show_icons=true&bg_color=00000000&hide_border=true&icon_color=4F8CC9&hide_title=true&count_private=true" />
+    </td>
+    <td align="center" style="padding=0;width=50%;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdiok&title_color=4F8CC9&text_color=9f9f9f&layout=compact&show_icons=true&bg_color=00000000&hide_border=true&icon_color=00000000&count_private=true" />
+    </td>
+  </tr>
+</table>
 
+</div>
 
-### Skills
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsabdiok&layout=compact&theme=radical)
+<img src="https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg" alt="sneke"></a>
 
-### Socials
-
-<p align="left"> <a href="https://www.github.com/ItsAbdiOk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/itsabdiok/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/@ItsAbdiOk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/ItsAbdiOk" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
-
+![Footer](./footer.png)
