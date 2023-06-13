@@ -1,4 +1,3 @@
-![Header](./header.png)
 
 <h2 align="center">ItsAbdiOk</h2>
 
@@ -31,5 +30,3 @@
     <img align="center" src="https://lanyard.cnrad.dev/api/393153548130451494" alt="Discord Presence">
   </a>
 </div>
-
-![Footer](./footer.png)
